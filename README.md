@@ -1,5 +1,4 @@
-
-**Frontend-разработчик** • 💚 Vue
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00DC82&center=false&vCenter=true&width=435&lines=Frontend+Developer;Vue%2C+Nuxt%2C+TypeScript;)](https://git.io/typing-svg)
 
 ---
 
